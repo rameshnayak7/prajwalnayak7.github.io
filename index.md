@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COMING SOON :) Ignore the contents of the page
 
 You can use the [editor on GitHub](https://github.com/prajwalnayak7/RADweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
